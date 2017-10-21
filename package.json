@@ -1,0 +1,22 @@
+{
+  "name": "javascript_training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgummalla79/javascript_training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgummalla79/javascript_training/issues"
+  },
+  "homepage": "https://github.com/sgummalla79/javascript_training#readme",
+  "dependencies": {
+    "express": "^4.15.5"
+  }
+}
